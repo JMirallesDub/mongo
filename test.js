@@ -68,6 +68,7 @@ describe('dbInterface', function() {
       done();
     });
   });
+  var succeeded = 3;
 
   /**
    *  This function does some basic setup work to make sure you have the correct
